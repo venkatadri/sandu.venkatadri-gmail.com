@@ -4,7 +4,8 @@ Git hub repository for the free Udemy course :
 [https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/](https://www.udemy.com/junit-tutorial-for-beginners-with-java-examples/)
 
 
-## Get started with Junit
+
+### Get started with Junit
 
 * [Course Overview](#topics)
   - [Section 1 Foundation](#section-1-foundation)

@@ -1,0 +1,8 @@
+com\in28minutes\junit\suite\DummyTestSuite.class
+com\in28minutes\junit\helper\ArraysTest.class
+com\in28minutes\junit\helper\QuickBeforeAfterTest.class
+com\clarity\business\ClientBOTest.class
+com\clarity\business\ClientBOTestRefactored.class
+com\in28minutes\junit\helper\StringHelperParameterizedTest.class
+com\in28minutes\junit\helper\ArraysCompareTest.class
+com\in28minutes\junit\helper\StringHelperTest.class
